@@ -9,8 +9,12 @@ a {
   color: #666;
 }
 
+.clear {
+  clear: both;
+}
+
 .container {
-  width: 1080px;
+  width: 1280px;
   margin: 0 auto;
 }
 
@@ -69,7 +73,13 @@ a {
 }
 
 .flash-bg {
-  margin: 44px 0;
+  float: left;
+  margin: 44px 10px;
+}
+
+.poster-bg {
+  float: right;
+  margin: 44px 10px;
 }
 
 .issue-header {
