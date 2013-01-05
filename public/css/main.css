@@ -73,13 +73,7 @@ a {
 }
 
 .flash-bg {
-  float: left;
-  margin: 44px 10px;
-}
-
-.poster-bg {
-  float: right;
-  margin: 44px 10px;
+  margin: 44px 0;
 }
 
 .issue-header {
